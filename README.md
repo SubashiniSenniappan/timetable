@@ -124,6 +124,8 @@ Execute the program
 ```
 
 # OUTPUT :
-![Timetable of suba](https://user-images.githubusercontent.com/119404951/213871451-186e2d6a-22c2-4746-8e99-071d0e3e714b.jpg)
+
+![timetablw](https://user-im![timetable image](https://user-images.githubusercontent.com/119404951/213900949-548ca676-f12f-42fd-91ae-8ff3a61b69c6.png)
+ages.githubusercontent.com/119404951/213900923-4bfe5f54-dda5-48d0-a8f0-d5213904ec54.jpg)
 
 ![Screenshot (103)](https://user-images.githubusercontent.com/119404951/213871498-ec144cda-5c29-469f-8e58-7beeba6bd092.png)
